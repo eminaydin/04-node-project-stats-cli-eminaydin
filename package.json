@@ -1,0 +1,23 @@
+{
+  "name": "project-stats",
+  "version": "1.0.0",
+  "description": "## Overview",
+  "main": "index.js",
+  "bin": {
+    "is-project": "./bin/cli"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dci-ber-fbw21/04-node-project-stats-cli-eminaydin.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dci-ber-fbw21/04-node-project-stats-cli-eminaydin/issues"
+  },
+  "homepage": "https://github.com/dci-ber-fbw21/04-node-project-stats-cli-eminaydin#readme",
+  "keywords": []
+}
